@@ -48,7 +48,7 @@ If you use this dataset in your research, please cite the original publication:
 
 ```bibtex
 @article{Chariskou2026,
-  author = {Chariskou, C. and Vrochidou, E. and Papakostas, George A.},
+  author = {C. Chariskou, E. Vrochidou, and George A. Papakostas},
   title = {Pre-Seismic Ground Dislocations from Interferometric Satellite Synthetic Aperture Radar Images as Predictors of Earthquake Magnitude and Epicenter Localization},
   journal = {Applied Sciences},
   year = {2026}
